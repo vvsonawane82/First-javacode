@@ -1,5 +1,5 @@
-class simple {
-public static void main (string args[]){
-system.out.println("Hello batch38 my code is running successfully");
-}
+class Simple {
+    public static void main(String[] args) {
+        System.out.println("Hello batch38, my code is running successfully");
+    }
 }
